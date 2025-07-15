@@ -15,5 +15,15 @@ Calculadora simples desenvolvida com Python utilizando a biblioteca [CustomTkint
 
 ## 📦 Como executar
 1. Clone este repositório:
+```
+git clone https://github.com/seu-usuario/calculadora-customtkinter.git
+cd calculadora-customtkinter
+```
 2. Instale a biblioteca:
+```
+pip install customtkinter
+```
 3. Execute o arquivo:
+```
+python main.py
+```
