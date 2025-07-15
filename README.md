@@ -15,3 +15,5 @@ Calculadora simples desenvolvida com Python utilizando a biblioteca [CustomTkint
 
 ## 📦 Como executar
 1. Clone este repositório:
+2. Instale a biblioteca:
+3. Execute o arquivo:
