@@ -1,6 +1,6 @@
 # 🧮 Calculadora com CustomTkinter
 
-Calculadora simples desenvolvida com Python utilizando a biblioteca [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) para uma interface gráfica moderna e responsiva.
+Calculadora simples desenvolvida com Python utilizando a biblioteca [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) para uma interface gráfica responsiva.
 
 ## 🚀 Funcionalidades
 - Operações básicas: +, -, ×, ÷
